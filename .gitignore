@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+env/
+venv/
+ENV/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Secrets
+.env
+.venv
+
+# Notebook outputs
+*.nbconvert.ipynb
